@@ -25,14 +25,14 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname'] = 'Buttons format';
-$string['currentsection'] = 'This topic';
-$string['editsection'] = 'Edit topic';
-$string['deletesection'] = 'Delete topic';
-$string['sectionname'] = 'Topic';
-$string['section0name'] = 'General';
-$string['hidefromothers'] = 'Hide topic';
-$string['showfromothers'] = 'Show topic';
+$string['pluginname'] = 'Buttonformat';
+$string['currentsection'] = 'Dieser Abschnitt';
+$string['editsection'] = 'Abschnitt bearbeiten';
+$string['deletesection'] = 'Abschnitt löschen';
+$string['sectionname'] = 'Abschnitt';
+$string['section0name'] = 'Allgemein';
+$string['hidefromothers'] = 'Abschnitt verbergen';
+$string['showfromothers'] = 'Abschnitt anzeigen';
 $string['showdefaultsectionname'] = 'Show the default sections name';
 $string['showdefaultsectionname_help'] = 'If no name is set for the section will not show anything.<br>
 By definition an unnamed topic is displayed as <strong>Topic [N]</strong>.';
